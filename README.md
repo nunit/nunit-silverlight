@@ -1,10 +1,12 @@
-# NUnit 3.0 #
+# NUnit SilverLight 3 #
 
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/3xfkxtnkrts1x06q/branch/master?svg=true)](https://ci.appveyor.com/project/CharliePoole/nunit/branch/master) [![Travis Build Status](https://travis-ci.org/nunit/nunit.svg?branch=master)](https://travis-ci.org/nunit/nunit) [![NuGet Version and Downloads count](https://buildstats.info/nuget/NUnit)](https://www.nuget.org/packages/NUnit) 
+[![Build status](https://ci.appveyor.com/api/projects/status/cw74xvoi9kfjmip2/branch/master?svg=true)](https://ci.appveyor.com/project/CharliePoole/nunit-silverlight/branch/master) [![NuGet Version and Downloads count](https://buildstats.info/nuget/NUnit.SL50)](https://www.nuget.org/packages/NUnit.SL50)
 
 [![Follow NUnit](https://img.shields.io/twitter/follow/nunit.svg?style=social)](https://twitter.com/nunit)
 
 NUnit is a unit-testing framework for all .NET languages. Initially ported from JUnit, the current production release, version 3.0, has been completely rewritten with many new features and support for a wide range of .NET platforms.
+
+This repository contains the SilverLight 5.0 version of the NUnit Framework. More information can be found in the main [NUnit Framework repository](https://github.com/nunit/nunit) and in the [documentation](https://github.com/nunit/docs/wiki).
 
 ## License ##
 
